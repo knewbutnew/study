@@ -1,6 +1,8 @@
 # study
 https://www.youtube.com/watch?v=vcCaSBJpsHk
 
+[LSTM] https://www.youtube.com/watch?v=IgIHjiCgECw
+
 https://mlcs.yonsei.ac.kr/
 
 https://github.com/MLCS-Yonsei/MLCS-Internship-Program/tree/master
