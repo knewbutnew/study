@@ -1,5 +1,5 @@
 # study
-[[https://youtu.be/dnJ3JESmBkE?si=L8tpXOZhVQx9lwKZ](https://www.youtube.com/watch?v=vcCaSBJpsHk)](https://www.youtube.com/watch?v=vcCaSBJpsHk&list=PLS8gIc2q83OjStGjdTF2LZtc0vefCAbnX)
+https://www.youtube.com/watch?v=vcCaSBJpsHk
 
 https://github.com/MLCS-Yonsei/MLCS-Internship-Program/tree/master
 
