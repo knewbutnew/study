@@ -14,3 +14,5 @@ https://rail.eecs.berkeley.edu/deeprlcourse/
 https://youngwoon.notion.site/Student-Training-e24c8a0fc3574460a3a87bb504e793bb?pvs=4
 
 https://youngwoon.github.io/youngwoon
+
+https://www.coursera.org/learn/machine-learning
