@@ -3,6 +3,8 @@ https://www.youtube.com/watch?v=vcCaSBJpsHk
 
 [LSTM] https://www.youtube.com/watch?v=IgIHjiCgECw
 
+[Linear system] https://velog.io/@euisuk-chung/%EA%B0%9C-%EC%83%81%ED%83%9C-%EA%B3%B5%EA%B0%84-%EB%AA%A8%EB%8D%B8State-Space-Model
+
 https://mlcs.yonsei.ac.kr/
 
 https://github.com/MLCS-Yonsei/MLCS-Internship-Program/tree/master
